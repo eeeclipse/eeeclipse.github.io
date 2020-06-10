@@ -1,30 +1,85 @@
-## Welcome to GitHub Pages
+## eeeclipse's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/eeeclipse/eeeclipse.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+keywords : ```mathematics```,```engineering```, ```super-fast learner```
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## contact 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Email](eeeclipse.genesis@gmail.com)
+[velog.io](https://velog.io/@eeeclipse/about)
 
-```markdown
-Syntax highlighted code block
+## 📌 the Fields I Interested in 
+### 📚 Mathematics
+- Topology and Geometry
+  - Algebraic and Differential Topology
+  - Algebraic and Differential Geometry
+  - Symplectic Geometry
+  - Information Geometry 
+  - Reflection
+  - Sphere Packings, Lattices, and Groups
+- Combinatorics
+- Representation Theory
+- Information Theory
+- Numerical Analysis
+- Mirror Symmetry
+- (Non)Commutative Algebra
 
-# Header 1
-## Header 2
-### Header 3
+### 🗃️ Data Science or Engineering
+- Data lakes
+- Configurations
+- IaaC
+- Modeling includes Machine Learning 
+  - Text Classifications
+  - Natural Language Prosessing
+  - Feature Engineering
+  - Geometric Machine Learning 
+- Topological Data Analysis 
+- Statistical Modeling with "BIG" data 
+### 💾 DATABASE
+- Database Architecture includes Modeling and Analyzing
+- MySQL, PostgreSQL, MongoDB
+### 💡 Paradigm
+- Thinking functionally
+- Quantum
+    
+> Cuius rei demonstrationem mirabilem sane detexi. Hanc marginis exiguitas non caperet.
+Pierre de Fermat
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## 🎸 Guitarist 
+- JAMES TYLER | [25th Anniversary Studio Elite Burning Water LTD #NN of 75](https://www.tylerguitars.com/burning-water)
+  - Body Wood: Swamp Ash
+  - Top Wood: None
+  - Neck Wood: Quartersawn Maple
+  - Fretboard: Pau Ferro  
+  - Neck Shape: Standard '59 (.845"-.975")
+  - Radius: 10"-12"
+  - Fret Size: Wide/Tall (.110" x .055")
+  - Finish: Burning Water w/Bare Arm Contour & James Tyler 2018 Signature 
+  - Pickups: JTS5 Stingray 500- JTS5 Stingray 500- Angry Retro
+  - Hardware: Chrome
+  - Tuners: Hipshot Locking
+  - Bridge: G2TS (New)
+  - Headstock: Natural w/Special Signature Logo 
+- GRETSCH | [G6136T-59](https://www.gretschguitars.com/gear/family/falcon/g6136t-59-vintage-select-edition-59-falcon-hollow-body-with-bigsby/2401513805) 
+  - VINTAGE SELECT EDITION '59 FALCON™ 
+  - HOLLOW BODY WITH BIGSBY®
+  - TV JONES® 
+  - VINTAGE WHITE
+  - LACQUER
+- Martin Performing Artist Series [GPCPA4 Rosewood](https://www.martinguitar.com/guitars/discontinued-guitars/gpcpa4-rosewood/)
+  - 14-fret cutaway
+  - Fishman's F1 Analog onboard electronics
+- Fender, Epiphone, Gilmoura and so on ... 
+- ❤️ [chase bliss](www.chaseblissaudio.com), [strymon](www.strymon.net)
+	- I also build pedals 🔧
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## 🌈 Queer 
+* Former Seoul Queer Culture Festival Organizing Committee Performance and Stage Director at [Seoul Queer Parade](www.sqcf.org)
+* Former performer at Jeonju Queer Culture Festival
+
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
