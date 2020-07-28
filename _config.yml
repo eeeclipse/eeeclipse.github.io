@@ -2,6 +2,7 @@
 title: eeclipse wikis
 SEOTitle: eeeclipse | wiki
 # header-img: img/home-bg.jpg
+remote_theme : Huxpro/huxpro.github.io
 email: eeeclipse.genesis@gmail.com
 description: "Data Scientist+Engineer, DBA|"
 keyword: "eeeclipse, mathematics, data science, DBA"
@@ -69,8 +70,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+# ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+# ga_domain: huangxuan.me
 
 
 
@@ -90,6 +91,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Progressive Web Apps
 chrome-tab-theme-color: "#000000"
 service-worker: true
+
 
 
 
